@@ -30,3 +30,4 @@ print("Strength:", rating)
 print("Suggestions:")
 for item in fb:
     print("-", item)
+#It will How you password is strong or not And also give you some suggestions 
