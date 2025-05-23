@@ -1,6 +1,5 @@
 ## Hi there 👋
-## My Name is V.Sudnesh Reddy
-<!--
+## My Name is V.Sudnesh Reddy,
 **Sudinesh5a1/Sudinesh5a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
